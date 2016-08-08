@@ -1,0 +1,33 @@
+_repo: Essays-on-some-unsettled-Questions-of-Political-Economy_12004
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mill, John Stuart
+    alias: Mill, J. S. (John Stuart)
+    birthdate: 1806
+    deathdate: 1873
+    gutenberg_agent_id: '1705'
+    url: http://www.gutenberg.org/2009/agents/1705
+    wikipedia: http://en.wikipedia.org/wiki/John_Stuart_Mill
+description: <p>This volume includes five essays on the subject of political and sociological
+  philosophy, including 'Of the Laws of Interchange between Nations', 'On the Influence
+  of Consumption upon Production', 'Of the Words Productive and Unproductive', 'Of
+  Profits and Interest' and 'Of the Definition of Political Economy; and of the Method
+  of Investigation Proper to It'. This version has been carefully formatted for today's
+  e-readers by Andrews UK, and includes original footnotes and an easy-to-navigate
+  table of contents.
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12004'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Economics'
+- !lcc 'HB'
+- GITenberg
+title: Essays on some unsettled Questions of Political Economy
+url: http://www.gutenberg.org/ebooks/12004
