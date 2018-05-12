@@ -1,5 +1,8 @@
 _repo: Essays-on-some-unsettled-Questions-of-Political-Economy_12004
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mill, John Stuart
@@ -16,6 +19,8 @@ description: <p>This volume includes five essays on the subject of political and
   of Investigation Proper to It'. This version has been carefully formatted for today's
   e-readers by Andrews UK, and includes original footnotes and an easy-to-navigate
   table of contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12004#Essays-on-some-unsettled-Questions-of-Political-Economy
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
